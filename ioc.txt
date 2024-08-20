@@ -1,2 +1,34 @@
 
 
+
+Cato Networks identified the following security event:
+Security Type: Anti Malware
+Action: BLOCK
+Table:
+--------------------
+Header:
+ - Time, Source, User, Destination, App Category, Custom Category
+
+
+Row 1:
+    - Time: 20 Aug 2024 7:09 PM
+    - Source: Sebastian Fuenzalida (181.43.137.165)
+    - User:  10.41.10.5
+    - Destination: Eicar 89.238.73.97
+    - App Category: Information Security
+    - Custom Category: 
+
+
+
+Table End
+--------------------
+All times are in Chile Standard Time (currently GMT-4)
+#of occurrences: 1
+start date: 20 Aug 2024 7:09 PM
+end date: 20 Aug 2024 7:09 PM
+
+
+Review event details:
+Cato Networks Management Application - Events <https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-08-20/{23:09:18--23:10:18}"&events-filters="(internalId-in-17e21e0158d3d16)">.
+Fine-tune the rule:
+Cato Networks Management Application - Rule configuration <https://pretorian.cc.catonetworks.com/?#/account/2700/settings;IpsPolicy>.
