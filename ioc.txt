@@ -91,3 +91,29 @@ Cato Networks Management Application - Rule configuration <https://pretorian.cc.
 </div><div style="padding-top:10px">
     <b><h4>All times are in Chile Standard Time (currently GMT-4)</h4></b>
 </div><div style="padding-top:10px">#of occurrences: 1</div><div style="padding-top:10px">start date: 20 Aug 2024 7:10 PM</div><div style="padding-top:10px">end date: 20 Aug 2024 7:10 PM<br><br></div><div style="padding-top:10px">Review event details:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-08-20/{23:10:22--23:11:22}"&events-filters="(internalId-in-17e25e0158db970)">Events</a>.</div><div style="padding-top:10px">Fine-tune the rule:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/settings;IpsPolicy>Rule configuration</a>.</div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>22 Aug 2024 1:07 PM - 22 Aug 2024 1:07 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+    <table style="table-layout:fixed; width:100%; padding-top:10px">
+        <thead>
+        <tr style="background-color:#e7e5e6">
+            <th>Time</th>
+            <th>Source</th>
+            <th>User</th>
+            <th>Destination</th>
+            <th>App Category</th>
+            <th>Custom Category</th>
+            <th>Threat Type</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">22 Aug 2024 1:07 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (80.103.45.231)</td>
+            <td style="word-wrap: break-word"> 10.41.10.170</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        </tbody>
+    </table>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-08-22/{17:07:02--17:08:02}"&events-filters="(internalId-in-28b036075c51253)">View events</a></div>
