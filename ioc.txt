@@ -6091,3 +6091,362 @@
         </tbody>
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-09-23/{15:13:33--15:14:33}"&events-filters="(internalId-in-28c59d04b9c423b)">View events</a></div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>23 Sep 2024 12:13 PM - 23 Sep 2024 1:08 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>38</b></div><div style="padding-top:10px"><br></div><div>
+    <table style="table-layout:fixed; width:100%; padding-top:10px">
+        <thead>
+        <tr style="background-color:#e7e5e6">
+            <th>Time</th>
+            <th>Source</th>
+            <th>User</th>
+            <th>Destination</th>
+            <th>App Category</th>
+            <th>Custom Category</th>
+            <th>Threat Type</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:07 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:07 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:07 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:07 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:07 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:07 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:07 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:05 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:05 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:05 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:04 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:04 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 1:04 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:57 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:57 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:57 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:57 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:57 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:57 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:56 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:56 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:56 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:56 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:56 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:56 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:56 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:56 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:55 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:55 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:41 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:41 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:41 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:19 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:19 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:19 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:19 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:19 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 12:17 PM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 104.18.35.227</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        </tbody>
+    </table>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-09-23/{15:13:33--16:08:37}"&events-filters="(internalId-in-28cf8504c3dd8ff*28cf8204c3db627*28c1da04c5a9103*28c23a04c6011fe*28c24204c609899*28cc4204c163c4a*28c24804c60f181*28c1a404c575401*28c1e504c5b3ffb*28c70f04bc8bdc2*28cfb704c40049f*28c18d04c55f327*28c70704bc7c69a*28cfd604c4142ea*28cfc904c40bffa*28c59d04b9c423b*28cc3e04c160b8c*28c1b204c581abb*28cc4004c16282a*28c24e04c614cfa*28c71204bc90087*28c24a04c6114d0*28cfbf04c40601f*28cfdb04c416ddd*28c25204c6190c4*28c70a04bc8314e*28cfb904c401959*28cfe404c41c37c*28cfea04c420820*28cff304c426b35*28cfe604c41df2d*28cfb804c40050c*28c18c04c55e3fa*28cfbb04c402ea3*28cfb704c3fff81*28c68904bb952b5*28cfc404c408e3d*28c24404c60bb5a*28c71204bc901c7)">View events</a></div>
