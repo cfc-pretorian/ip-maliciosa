@@ -5468,3 +5468,29 @@
         </tbody>
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-09-10/{20:06:11--20:07:11}"&events-filters="(internalId-in-1806bb015567f30*1806b40155666e1*1806c20155699db*1806b30155661cd*1806bd015568631*1806c401556a2b7*1806b8015567498*1806be015568ae1*1806b501556698a*1806bc0155681a0*1806b901556791a*1806b8015567338*1806bc0155683cb*1806b90155677eb)">View events</a></div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>23 Sep 2024 9:17 AM - 23 Sep 2024 9:17 AM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+    <table style="table-layout:fixed; width:100%; padding-top:10px">
+        <thead>
+        <tr style="background-color:#e7e5e6">
+            <th>Time</th>
+            <th>Source</th>
+            <th>User</th>
+            <th>Destination</th>
+            <th>App Category</th>
+            <th>Custom Category</th>
+            <th>Threat Type</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 9:17 AM</td>
+            <td style="word-wrap: break-word">rodolfo salazar (90.77.145.136)</td>
+            <td style="word-wrap: break-word"> 10.41.10.163</td>
+            <td style="word-wrap: break-word"> 172.64.152.29</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">PuP</td>
+        </tr>
+        </tbody>
+    </table>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-09-23/{12:17:08--12:18:08}"&events-filters="(internalId-in-28cc44047ff4db4)">View events</a></div>
