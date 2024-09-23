@@ -6039,3 +6039,29 @@
 </div><div style="padding-top:10px">
     <b><h4>All times are in Chile Standard Time (currently GMT-4)</h4></b>
 </div><div style="padding-top:10px">#of occurrences: 1</div><div style="padding-top:10px">start date: 23 Sep 2024 11:32 AM</div><div style="padding-top:10px">end date: 23 Sep 2024 11:33 AM<br><br></div><div style="padding-top:10px">Review event details:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-09-23/{14:32:40--14:33:40}"&events-filters="(internalId-in-17ec08001f7da9f)">Events</a>.</div><div style="padding-top:10px">Fine-tune the rule:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/settings;IpsPolicy>Rule configuration</a>.</div>
+<div style="padding-top:10px">Cato Networks identified the following security event:</div><div style="padding-top:10px">Security Type: Anti Malware</div><div style="padding-top:10px">Action: <span style='color: #b92c28'>BLOCK</span></div><div>
+    <table style="table-layout:fixed; width:100%; padding-top:10px">
+        <thead>
+        <tr style="background-color:#e7e5e6">
+            <th>Time</th>
+            <th>Source</th>
+            <th>User</th>
+            <th>Destination</th>
+            <th>App Category</th>
+            <th>Custom Category</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">23 Sep 2024 11:45 AM</td>
+            <td style="word-wrap: break-word">David Pulgar (186.156.240.165)</td>
+            <td style="word-wrap: break-word"> 10.41.10.144</td>
+            <td style="word-wrap: break-word">GitHub 185.199.108.133</td>
+            <td style="word-wrap: break-word">Business Systems</td>
+            <td style="word-wrap: break-word"></td>
+        </tr>
+        </tbody>
+    </table>
+</div><div style="padding-top:10px">
+    <b><h4>All times are in Chile Standard Time (currently GMT-4)</h4></b>
+</div><div style="padding-top:10px">#of occurrences: 1</div><div style="padding-top:10px">start date: 23 Sep 2024 11:45 AM</div><div style="padding-top:10px">end date: 23 Sep 2024 11:46 AM<br><br></div><div style="padding-top:10px">Review event details:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-09-23/{14:45:19--14:46:22}"&events-filters="(internalId-in-17eeff00206dbb2)">Events</a>.</div><div style="padding-top:10px">Fine-tune the rule:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/settings;IpsPolicy>Rule configuration</a>.</div>
