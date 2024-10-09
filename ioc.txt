@@ -6782,3 +6782,29 @@
         </tbody>
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-09/{15:39:27--15:40:27}"&events-filters="(internalId-in-1803af007ace9e6)">View events</a></div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>9 Oct 2024 6:58 PM - 9 Oct 2024 6:59 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+    <table style="table-layout:fixed; width:100%; padding-top:10px">
+        <thead>
+        <tr style="background-color:#e7e5e6">
+            <th>Time</th>
+            <th>Source</th>
+            <th>User</th>
+            <th>Destination</th>
+            <th>App Category</th>
+            <th>Custom Category</th>
+            <th>Threat Type</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">9 Oct 2024 6:58 PM</td>
+            <td style="word-wrap: break-word">Jose Miguel Valenzuela (190.44.238.92)</td>
+            <td style="word-wrap: break-word"> 10.41.10.49</td>
+            <td style="word-wrap: break-word"> 165.227.140.60</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        </tbody>
+    </table>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-09/{21:58:27--21:59:27}"&events-filters="(internalId-in-17ec830094bef6d)">View events</a></div>
