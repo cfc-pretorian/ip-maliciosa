@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>14 Oct 2024 4:05 PM - 14 Oct 2024 4:06 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>14 Oct 2024 4:05 PM - 14 Oct 2024 5:06 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,7 +8081,61 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">14 Oct 2024 4:05 PM</td>
+            <td style="word-wrap: break-word">14 Oct 2024 5:05 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.77</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 5:03 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.77</td>
+            <td style="word-wrap: break-word">Email</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 5:01 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.77</td>
+            <td style="word-wrap: break-word">Email</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:58 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.77</td>
+            <td style="word-wrap: break-word">Remote Access</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:56 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.77</td>
+            <td style="word-wrap: break-word">General, File Sharing</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:53 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.77</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:51 PM</td>
             <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
             <td style="word-wrap: break-word"> 10.41.10.194</td>
             <td style="word-wrap: break-word"> 190.215.202.82</td>
@@ -8089,6 +8143,168 @@
             <td style="word-wrap: break-word"></td>
             <td style="word-wrap: break-word">DoS</td>
         </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:49 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:46 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:44 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:41 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:39 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:37 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">Remote Access</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:34 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">Remote Access</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:32 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:30 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:27 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">Voip Video</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:25 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">Remote Access</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:22 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">Business Systems, Database</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:20 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">Business Systems, Database</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:17 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:15 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:13 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">Email</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:10 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">Remote Access</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">14 Oct 2024 4:08 PM</td>
+            <td style="word-wrap: break-word">Enzo Sanguinetti (179.8.122.229)</td>
+            <td style="word-wrap: break-word"> 10.41.10.194</td>
+            <td style="word-wrap: break-word"> 190.215.202.82</td>
+            <td style="word-wrap: break-word">General, File Sharing</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">DoS</td>
+        </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-14/{19:05:52--19:06:52}"&events-filters="(internalId-in-180b90011566aa3)">View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-14/{19:05:52--20:06:07}"&events-filters="(internalId-in-18064401180dff8*180dd30115f9bed*1801390116d4f1c*1801c70116f7a0b*1805270117cd9cf*180f0001164b373*180021011694422*180b90011566aa3*180cb10115b385b*180e6601161dd9a*180406011783d70*1807f401186c3cd*1806d201182d075*1802e4011741559*180c1e01158a1eb*180d410115d7848*1800ab0116b4c41*18076001184a6eb*180372011761923*18025501171ff85*18088301188d03e*1809110118aeaca*1804940117a9c12*1809a30118cce6f*180f8901166f74d*1805b60117ecf47)">View events</a></div>
