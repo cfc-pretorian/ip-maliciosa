@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>18 Oct 2024 6:01 PM - 18 Oct 2024 6:50 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>3</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>18 Oct 2024 7:20 PM - 18 Oct 2024 7:21 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,25 +8081,7 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">18 Oct 2024 6:50 PM</td>
-            <td style="word-wrap: break-word">Karina Devia (190.114.39.246)</td>
-            <td style="word-wrap: break-word"> 10.41.10.14</td>
-            <td style="word-wrap: break-word"> 151.101.130.132</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">18 Oct 2024 6:23 PM</td>
-            <td style="word-wrap: break-word">Karina Devia (190.114.39.246)</td>
-            <td style="word-wrap: break-word"> 10.41.10.14</td>
-            <td style="word-wrap: break-word"> 151.101.2.132</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">18 Oct 2024 6:21 PM</td>
+            <td style="word-wrap: break-word">18 Oct 2024 7:20 PM</td>
             <td style="word-wrap: break-word">Karina Devia (190.114.39.246)</td>
             <td style="word-wrap: break-word"> 10.41.10.14</td>
             <td style="word-wrap: break-word"> 151.101.2.132</td>
@@ -8109,4 +8091,4 @@
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-18/{21:01:02--21:50:08}"&events-filters="(internalId-in-17e17201ea4b9f3*17e1dc01ea5ac89*17e80a01eb139a6*17ec8e01e978e0e)">View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-18/{22:20:56--22:21:56}"&events-filters="(internalId-in-17ef4801ebcd00e)">View events</a></div>
