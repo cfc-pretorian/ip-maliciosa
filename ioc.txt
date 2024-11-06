@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">Cato Networks identified the following security event:</div><div style="padding-top:10px">Security Type: Anti Malware</div><div style="padding-top:10px">Action: <span style='color: #b92c28'>BLOCK</span></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>6 Nov 2024 11:34 AM - 6 Nov 2024 11:35 AM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8076,19 +8076,19 @@
             <th>Destination</th>
             <th>App Category</th>
             <th>Custom Category</th>
+            <th>Threat Type</th>
         </tr>
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">4 Nov 2024 3:45 PM</td>
-            <td style="word-wrap: break-word">Sebastian Fuenzalida (181.43.137.251)</td>
-            <td style="word-wrap: break-word"> 10.41.10.185</td>
-            <td style="word-wrap: break-word">HTTP(S) 50.116.1.184</td>
+            <td style="word-wrap: break-word">6 Nov 2024 11:34 AM</td>
+            <td style="word-wrap: break-word">camilo moreno (186.189.85.180)</td>
+            <td style="word-wrap: break-word"> 10.41.10.88</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
             <td style="word-wrap: break-word"></td>
             <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px">
-    <b><h4>All times are in Chile Standard Time (currently GMT-4)</h4></b>
-</div><div style="padding-top:10px">#of occurrences: 1</div><div style="padding-top:10px">start date: 4 Nov 2024 3:45 PM</div><div style="padding-top:10px">end date: 4 Nov 2024 3:46 PM<br><br></div><div style="padding-top:10px">Review event details:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-11-04/{18:45:23--18:46:23}"&events-filters="(internalId-in-18064300240c027)">Events</a>.</div><div style="padding-top:10px">Fine-tune the rule:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/settings;IpsPolicy>Rule configuration</a>.</div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-11-06/{14:34:38--14:35:38}"&events-filters="(internalId-in-180e7e005e8a2ab)">View events</a></div>
