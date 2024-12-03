@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>3 Dec 2024 5:14 PM - 3 Dec 2024 5:14 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>3 Dec 2024 5:13 PM - 3 Dec 2024 5:18 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>24</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,7 +8081,214 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:17 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:17 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:15 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
             <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:14 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:13 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:13 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:13 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:13 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:13 PM</td>
+            <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
+            <td style="word-wrap: break-word"> 10.41.10.7</td>
+            <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">3 Dec 2024 5:13 PM</td>
             <td style="word-wrap: break-word">camilo moreno (201.236.132.187)</td>
             <td style="word-wrap: break-word"> 10.41.10.7</td>
             <td style="word-wrap: break-word">Oficina 10.192.1.23</td>
@@ -8091,4 +8298,4 @@
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-12-03/{20:14:01--20:15:01}"&events-filters="(internalId-in-17e68900721f60e)">View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-12-03/{20:13:42--20:18:12}"&events-filters="(internalId-in-17e6b500722aeae*17e75e00725271d*17e68900721f60e*17e693007221a3d*17e67700721b00e*17e68000721d208*17e6bf00722d211*17e6a600722657b*17e6c100722db4f*17e68c0072200da*17e67800721b3b6*17e6b400722aa24*17e67f00721cf43*17e6960072227c2*17e756007250b63*17e67600721ad74*17e6b600722b2a9*17e68b00721fec0*17e6980072232a7*17e6fe00723cbf7*17e6a50072261ad*17e6c000722d5c1*17e698007222e5a*17e694007221df7*17e67700721b1ce)">View events</a></div>
