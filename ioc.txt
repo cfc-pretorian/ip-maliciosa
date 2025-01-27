@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>26 Jan 2025 11:39 PM - 26 Jan 2025 11:58 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>15</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>27 Jan 2025 11:35 AM - 27 Jan 2025 11:35 AM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,140 +8081,14 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:58 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
+            <td style="word-wrap: break-word">27 Jan 2025 11:35 AM</td>
+            <td style="word-wrap: break-word">Marcela Gonzalez (186.104.114.208)</td>
+            <td style="word-wrap: break-word"> 10.41.10.169</td>
+            <td style="word-wrap: break-word">AWS_Pretorian 10.172.120.71</td>
             <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:41 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.152.17</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
             <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:40 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.152.17</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:40 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:40 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">26 Jan 2025 11:39 PM</td>
-            <td style="word-wrap: break-word">Cristian Loyola (45.232.95.237)</td>
-            <td style="word-wrap: break-word"> 10.41.10.74</td>
-            <td style="word-wrap: break-word"> 162.159.153.247</td>
-            <td style="word-wrap: break-word">Computers and Technology</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
+            <td style="word-wrap: break-word">Remote Code Execution</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2025-01-27/{02:39:50--02:58:59}"&events-filters="(internalId-in-17e1f8000f16f3e*17e203000f175b9*17e1f7000f16eb1*17e256000f1b958*17e1f7000f16ea3*17e1f7000f16e0c*17e1f6000f16dd9*17e1fa000f17034*17e1fa000f17063*17e1f7000f16e12*17e1f8000f16f54*17e1fd000f172ab*17e64c000f5e6d0*17e1fd000f17286*17e203000f175db*17e233000f19e73)">View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2025-01-27/{14:35:52--14:36:52}"&events-filters="(internalId-in-17e9c8002516928)">View events</a></div>
