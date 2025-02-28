@@ -8080,15 +8080,15 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">28 Feb 2025 12:57 PM</td>
+            <td style="word-wrap: break-word">28 Feb 2025 1:03 PM</td>
             <td style="word-wrap: break-word">Esteban Berrios (200.50.58.33)</td>
             <td style="word-wrap: break-word">esteban.berrios@pretorian-ti.com 10.41.10.202</td>
-            <td style="word-wrap: break-word">Gmail 142.251.0.132</td>
-            <td style="word-wrap: break-word">Email</td>
+            <td style="word-wrap: break-word">Google Applications 64.233.186.132</td>
+            <td style="word-wrap: break-word">General, Online Storage</td>
             <td style="word-wrap: break-word">Sanctioned Apps</td>
         </tr>
         </tbody>
     </table>
 </div><div style="padding-top:10px">
     <b><h4>All times are in Chile Standard Time (currently GMT-4)</h4></b>
-</div><div style="padding-top:10px">#of occurrences: 1</div><div style="padding-top:10px">start date: 28 Feb 2025 12:57 PM</div><div style="padding-top:10px">end date: 28 Feb 2025 12:57 PM<br><br></div><div style="padding-top:10px">Review event details:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-02-28/%7B15:57:36--15:58:37%7D%22&events-filters=%22(internalId-in-17ecf0010924b36)%22>Events</a>.</div><div style="padding-top:10px">Fine-tune the rule:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/>Rule configuration</a>.</div>
+</div><div style="padding-top:10px">#of occurrences: 1</div><div style="padding-top:10px">start date: 28 Feb 2025 1:03 PM</div><div style="padding-top:10px">end date: 28 Feb 2025 1:03 PM<br><br></div><div style="padding-top:10px">Review event details:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-02-28/%7B16:03:03--16:04:04%7D%22&events-filters=%22(internalId-in-17ee370109bc467)%22>Events</a>.</div><div style="padding-top:10px">Fine-tune the rule:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/>Rule configuration</a>.</div>
