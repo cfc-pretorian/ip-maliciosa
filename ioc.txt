@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>6 Mar 2025 5:56 AM - 6 Mar 2025 5:56 AM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">Cato Networks identified the following security event:</div><div style="padding-top:10px">Security Type: Anti Malware</div><div style="padding-top:10px">Action: <span style='color: #b92c28'>Block</span></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8076,19 +8076,19 @@
             <th>Destination</th>
             <th>App Category</th>
             <th>Custom Category</th>
-            <th>Threat Type</th>
         </tr>
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">6 Mar 2025 5:56 AM</td>
-            <td style="word-wrap: break-word">Roland Alvarado (190.234.179.83)</td>
-            <td style="word-wrap: break-word">Roland Alvarado 10.41.10.130</td>
-            <td style="word-wrap: break-word"> 38.43.155.139</td>
-            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word">11 Mar 2025 4:30 PM</td>
+            <td style="word-wrap: break-word">Roland Alvarado (190.234.179.242)</td>
+            <td style="word-wrap: break-word">roland.alvarado@pretorian-ti.com 10.41.10.59</td>
+            <td style="word-wrap: break-word">GitHub 185.199.109.133</td>
+            <td style="word-wrap: break-word">Business Systems, Computers and Technology</td>
             <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-03-06/%7B08:56:22--08:57:23%7D%22&events-filters=%22(internalId-in-20033601312fa86)%22>View events</a></div>
+</div><div style="padding-top:10px">
+    <b><h4>All times are in Chile Standard Time (currently GMT-4)</h4></b>
+</div><div style="padding-top:10px">#of occurrences: 1</div><div style="padding-top:10px">start date: 11 Mar 2025 4:30 PM</div><div style="padding-top:10px">end date: 11 Mar 2025 4:30 PM<br><br></div><div style="padding-top:10px">Review event details:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-03-11/%7B19:30:40--19:31:41%7D%22&events-filters=%22(internalId-in-200f600263d95cb)%22>Events</a>.</div><div style="padding-top:10px">Fine-tune the rule:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/>Rule configuration</a>.</div>
