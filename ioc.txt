@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>7 May 2025 8:36 AM - 7 May 2025 8:38 AM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>2344</b></div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><b>Note:</b> Showing only the first 21 events<br><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>7 May 2025 11:31 AM - 7 May 2025 11:31 AM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,194 +8081,14 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
+            <td style="word-wrap: break-word">7 May 2025 11:31 AM</td>
             <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
             <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word">[Authentication Services, Business Systems]</td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">7 May 2025 8:36 AM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.117</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.114</td>
+            <td style="word-wrap: break-word">AWS_Pretorian 10.172.25.126</td>
             <td style="word-wrap: break-word"></td>
             <td style="word-wrap: break-word">[Lista blanca, Excepcion de certificados]</td>
             <td style="word-wrap: break-word">Network Scan</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-05-07/%7B12:36:19--12:38:55%7D%22&events-filters=%22(internalId-in-28c3cc04a563e4c*28c3cb04a56290d*28c3cb04a5628ff*28c3cb04a5628d3*28c3cb04a5628ae*28c3cb04a562875*28c3cb04a562835*28c3cb04a5627de*28c3cb04a5627c5*28c3cb04a56279d*28c3cb04a56277c*28c3cb04a56229a*28c3cb04a56228b*28c3cb04a562265*28c3cb04a5621f8*28c3cb04a5621e2*28c3cb04a5621ac*28c3cb04a56215f*28c3cb04a562126*28c3ca04a560084*28c3c304a5538aa)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-05-07/%7B15:31:03--15:32:04%7D%22&events-filters=%22(internalId-in-28ccb704f698e02)%22>View events</a></div>
