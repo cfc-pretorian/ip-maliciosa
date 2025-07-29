@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>23 Jul 2025 3:15 PM - 23 Jul 2025 3:15 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>8</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>28 Jul 2025 11:42 PM - 28 Jul 2025 11:42 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,77 +8081,14 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">23 Jul 2025 3:15 PM</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.51.185)</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.223</td>
-            <td style="word-wrap: break-word">Oficina 10.110.10.117</td>
+            <td style="word-wrap: break-word">28 Jul 2025 11:42 PM</td>
+            <td style="word-wrap: break-word">Carla Saez (191.114.69.140)</td>
+            <td style="word-wrap: break-word">Carla Saez 10.41.10.120</td>
+            <td style="word-wrap: break-word"> 186.2.162.102</td>
+            <td style="word-wrap: break-word">[Uncategorized]</td>
             <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Web Application Attack</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">23 Jul 2025 3:15 PM</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.51.185)</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.223</td>
-            <td style="word-wrap: break-word">Oficina 10.110.10.117</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Web Application Attack</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">23 Jul 2025 3:15 PM</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.51.185)</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.223</td>
-            <td style="word-wrap: break-word">Oficina 10.110.10.117</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Web Application Attack</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">23 Jul 2025 3:15 PM</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.51.185)</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.223</td>
-            <td style="word-wrap: break-word">Oficina 10.110.10.117</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Web Application Attack</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">23 Jul 2025 3:15 PM</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.51.185)</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.223</td>
-            <td style="word-wrap: break-word">Oficina 10.110.10.117</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Web Application Attack</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">23 Jul 2025 3:15 PM</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.51.185)</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.223</td>
-            <td style="word-wrap: break-word">Oficina 10.110.10.117</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Web Application Attack</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">23 Jul 2025 3:15 PM</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.51.185)</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.223</td>
-            <td style="word-wrap: break-word">Oficina 10.110.10.117</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Web Application Attack</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">23 Jul 2025 3:15 PM</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.51.185)</td>
-            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.223</td>
-            <td style="word-wrap: break-word">Oficina 10.110.10.117</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Web Application Attack</td>
+            <td style="word-wrap: break-word">Reputation</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-07-23/%7B19:15:41--19:16:42%7D%22&events-filters=%22(internalId-in-1804ea018185b5c*1804ea018185b5b*1804e7018184a60*1804e7018184a5f*1804df018181abb*1804df018181a8c*1804df018181a3d*1804dd0181811f0)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-07-29/%7B03:42:47--03:43:48%7D%22&events-filters=%22(internalId-in-17e337009e2636e)%22>View events</a></div>
