@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>1 Aug 2025 3:07 PM - 1 Aug 2025 3:07 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>942</b></div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><b>Note:</b> Showing only the first 21 events<br><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>4 Aug 2025 4:50 PM - 4 Aug 2025 4:50 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,194 +8081,14 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
+            <td style="word-wrap: break-word">4 Aug 2025 4:50 PM</td>
+            <td style="word-wrap: break-word">Franco Ahumada (148.222.130.150)</td>
+            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.86</td>
+            <td style="word-wrap: break-word"> 104.18.14.25</td>
             <td style="word-wrap: break-word"></td>
             <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">1 Aug 2025 3:07 PM</td>
-            <td style="word-wrap: break-word">Esteban Berrios (200.50.57.186)</td>
-            <td style="word-wrap: break-word">Esteban Berrios 10.41.10.214</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.23</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Network Scan</td>
+            <td style="word-wrap: break-word">Vulnerability Scan</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-08-01/%7B19:07:12--19:08:13%7D%22&events-filters=%22(internalId-in-17e06102069df2f*17e06102069df31*17e06102069df25*17e06102069df27*17e06102069df1d*17e06102069df13*17e06102069df15*17e06102069df0a*17e06102069df08*17e06102069df06*17e06102069df02*17e06102069def9*17e06102069def5*17e06102069def3*17e06102069deec*17e06102069deea*17e06102069dee8*17e06102069dee6*17e06102069dee2*17e06102069dee4*17e06002069d54c)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-08-04/%7B20:50:16--20:51:17%7D%22&events-filters=%22(internalId-in-null)%22>View events</a></div>
