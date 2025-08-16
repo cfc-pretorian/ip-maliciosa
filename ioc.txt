@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Aug 2025 7:02 PM - 11 Aug 2025 7:02 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>10</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>16 Aug 2025 2:31 PM - 16 Aug 2025 2:31 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,95 +8081,14 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
+            <td style="word-wrap: break-word">16 Aug 2025 2:31 PM</td>
+            <td style="word-wrap: break-word">Marcela Gonzalez (190.22.63.24)</td>
+            <td style="word-wrap: break-word">Marcela Gonzalez 10.41.10.15</td>
+            <td style="word-wrap: break-word"> 64.233.190.121</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
             <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">11 Aug 2025 7:02 PM</td>
-            <td style="word-wrap: break-word">Joaquin Castillo (191.114.123.56)</td>
-            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.47</td>
-            <td style="word-wrap: break-word">Oficina 192.168.150.45</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Remote Code Execution</td>
+            <td style="word-wrap: break-word">Reputation</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-08-11/%7B23:02:09--23:03:10%7D%22&events-filters=%22(internalId-in-null*null*null*null*null*null*null*null*null*null)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-08-16/%7B18:31:58--18:32:59%7D%22&events-filters=%22(internalId-in-null)%22>View events</a></div>
