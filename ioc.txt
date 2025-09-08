@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>8 Sep 2025 6:26 PM - 8 Sep 2025 6:41 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>14</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>8 Sep 2025 7:01 PM - 8 Sep 2025 7:01 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,124 +8081,7 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:41 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.94</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:41 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.87</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:40 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.94</td>
-            <td style="word-wrap: break-word">[Database, Business Systems]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:40 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.87</td>
-            <td style="word-wrap: break-word">[Database, Business Systems]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:35 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.94</td>
-            <td style="word-wrap: break-word">[Database, Business Systems]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:33 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.87</td>
-            <td style="word-wrap: break-word">[Database, Business Systems]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:27 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.94</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:27 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.94</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:27 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.94</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:27 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.94</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:26 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.87</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:26 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.87</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:26 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
-            <td style="word-wrap: break-word"> 190.215.202.87</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">DoS</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">8 Sep 2025 6:26 PM</td>
+            <td style="word-wrap: break-word">8 Sep 2025 7:01 PM</td>
             <td style="word-wrap: break-word">Franco Ahumada (148.222.223.112)</td>
             <td style="word-wrap: break-word">Franco Ahumada 10.41.10.188</td>
             <td style="word-wrap: break-word"> 190.215.202.87</td>
@@ -8208,4 +8091,4 @@
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-09-08/%7B21:26:34--21:41:18%7D%22&events-filters=%22(event_id-in-3dd7d00484ad65*3dd6f004849048*3dd62004847608*3dd56004845ca1*3dc3600481dbf8*3dbc700480dc97*3da4b0047d7c26*3da460047d6f2d*3da460047d6f2c*3da460047d6f1b*3da0f0047ce440*3da0a0047cd801*3da0a0047cd7fb*3da0a0047cd7f8)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-09-08/%7B22:01:19--22:02:20%7D%22&events-filters=%22(event_id-in-3d22f0048ebf43)%22>View events</a></div>
