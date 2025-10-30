@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>30 Oct 2025 2:06 PM - 30 Oct 2025 2:57 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>434</b></div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><b>Note:</b> Showing only the first 21 events<br><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>30 Oct 2025 3:03 PM - 30 Oct 2025 3:03 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,194 +8081,14 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
+            <td style="word-wrap: break-word">30 Oct 2025 3:03 PM</td>
             <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
             <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
             <td style="word-wrap: break-word"> 172.66.175.49</td>
             <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:54 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:52 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:52 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:52 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:52 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:52 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:52 PM</td>
-            <td style="word-wrap: break-word">rodolfo salazar (90.77.146.105)</td>
-            <td style="word-wrap: break-word">rodolfo salazar 10.41.10.149</td>
-            <td style="word-wrap: break-word"> 172.66.175.49</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:23 PM</td>
-            <td style="word-wrap: break-word">Alejandro Hernaez (181.43.155.126)</td>
-            <td style="word-wrap: break-word">Alejandro Hernaez 10.41.10.218</td>
-            <td style="word-wrap: break-word"> 104.20.27.99</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:23 PM</td>
-            <td style="word-wrap: break-word">Alejandro Hernaez (181.43.155.126)</td>
-            <td style="word-wrap: break-word">Alejandro Hernaez 10.41.10.218</td>
-            <td style="word-wrap: break-word"> 104.20.27.99</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:23 PM</td>
-            <td style="word-wrap: break-word">Alejandro Hernaez (181.43.155.126)</td>
-            <td style="word-wrap: break-word">Alejandro Hernaez 10.41.10.218</td>
-            <td style="word-wrap: break-word"> 104.20.27.99</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:23 PM</td>
-            <td style="word-wrap: break-word">Alejandro Hernaez (181.43.155.126)</td>
-            <td style="word-wrap: break-word">Alejandro Hernaez 10.41.10.218</td>
-            <td style="word-wrap: break-word"> 104.20.27.99</td>
-            <td style="word-wrap: break-word">[Computers and Technology]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">30 Oct 2025 2:06 PM</td>
-            <td style="word-wrap: break-word">Franco Ahumada (143.105.136.168)</td>
-            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.91</td>
-            <td style="word-wrap: break-word"> 162.159.135.42</td>
-            <td style="word-wrap: break-word">[Phishing]</td>
             <td style="word-wrap: break-word"></td>
             <td style="word-wrap: break-word">Reputation</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-10-30/%7B17:06:00--17:57:59%7D%22&events-filters=%22(event_id-in-28c66b014944071*28c66b014943f7f*28c66b014943f27*28c66b014943ee6*28c66b014943ee5*28c66a0149439e0*28c6620149406c6*28c66201494068d*28c66001493fb7d*28c65b01493dcc4*28c5dd01490bb9c*28c5dc01490b545*28c5dc01490b422*28c5dc01490afde*28c5dc01490afac*28c5db01490afa0*17defb0031ad465*17defb0031ad456*17defb0031ad424*17defb0031ad41e*3caf80079f6841)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-10-30/%7B18:03:50--18:04:51%7D%22&events-filters=%22(event_id-in-28c886014a1cb34)%22>View events</a></div>
