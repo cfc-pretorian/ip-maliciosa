@@ -1,0 +1,30 @@
+name: Validar lista de IPs
+
+on:
+  schedule:
+    # Todos los días a las 06:00 UTC (ajusta si quieres otra hora)
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'malignas.txt'
+  pull_request:
+    paths:
+      - 'malignas.txt'
+
+jobs:
+  validate-ip-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Validar archivo de IPs
+        run: |
+          python .github/scripts/validate_ip_list.py malignas.txt
