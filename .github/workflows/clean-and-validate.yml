@@ -1,0 +1,52 @@
+name: Limpiar y Validar IPs
+
+on:
+  schedule:
+    # Todos los días a las 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  clean-and-validate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # Necesario para hacer commit automático
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Configure Git author
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "actions@github.com"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run CLEAN script
+        run: |
+          python .github/scripts/clean_ip_list.py malignas.txt
+
+      - name: Check if there are changes
+        id: git-check
+        run: |
+          if git diff --quiet; then
+              echo "changed=false" >> $GITHUB_OUTPUT
+          else
+              echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit & push changes (if any)
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git add malignas.txt malignas.txt.bak
+          git commit -m "Auto-clean: Correcciones automáticas en la lista de IPs"
+          git push
+
+      - name: Run VALIDATION script
+        run: |
+          python .github/scripts/validate_ip_list.py malignas.txt
