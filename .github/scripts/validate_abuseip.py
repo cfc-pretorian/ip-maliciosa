@@ -6,6 +6,7 @@ from datetime import datetime
 # Paths
 LIST_PATH = "data/malignas.txt"
 BACKUP_FOLDER = "data/backups"
+POINTER_PATH = "data/last_position.txt"
 
 # Read API keys from GitHub Secrets (comma-separated)
 API_KEYS = os.getenv("API_KEYS", "").split(",")
@@ -13,34 +14,39 @@ API_KEYS = os.getenv("API_KEYS", "").split(",")
 if not API_KEYS or API_KEYS == [""]:
     raise Exception("No API keys found in environment variable API_KEYS")
 
-# AbuseIPDB endpoint
-ENDPOINT = "https://api.abuseipdb.com/api/v2/check"
+max_per_key = 1000
+total_daily_allowed = len(API_KEYS) * max_per_key
 
-# Ensure backup folder exists
+# Ensure folders exist
 os.makedirs(BACKUP_FOLDER, exist_ok=True)
 
 # Load IP list
 with open(LIST_PATH, "r") as f:
-    original_ips = [line.strip() for line in f if line.strip()]
+    ips = [line.strip() for line in f if line.strip()]
 
-# Backup original file
+total_ips = len(ips)
+
+# Load last processed position
+if os.path.exists(POINTER_PATH):
+    with open(POINTER_PATH, "r") as f:
+        last_pos = int(f.read().strip())
+else:
+    last_pos = 0
+
+print(f"[INFO] Total IPs: {total_ips}")
+print(f"[INFO] Last processed position: {last_pos}")
+print(f"[INFO] Daily limit based on API keys: {total_daily_allowed}")
+
+# Backup before processing
 timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
 backup_path = f"{BACKUP_FOLDER}/malignas_{timestamp}.txt"
 
 with open(backup_path, "w") as backup:
-    backup.write("\n".join(original_ips))
+    backup.write("\n".join(ips))
 
-print(f"[INFO] Backup created: {backup_path}")
+print(f"[INFO] Backup created -> {backup_path}")
 
-cleaned_ips = []  # IPs that are still malicious
-
-# Rate limits: 1000 IP/day per key
-max_per_key = 1000
-total_allowed = len(API_KEYS) * max_per_key
-
-print(f"[INFO] API keys loaded: {len(API_KEYS)}")
-print(f"[INFO] Total IPs allowed per day: {total_allowed}")
-print(f"[INFO] Total IPs in list: {len(original_ips)}")
+ENDPOINT = "https://api.abuseipdb.com/api/v2/check"
 
 def check_ip(ip, key):
     headers = {"Key": key, "Accept": "application/json"}
@@ -49,43 +55,60 @@ def check_ip(ip, key):
     try:
         r = requests.get(ENDPOINT, headers=headers, params=params, timeout=10)
         data = r.json()
-
+        
         if "data" not in data:
-            print(f"[ERROR] Invalid response for {ip}: {data}")
-            return False
+            print(f"[WARN] Invalid response for {ip}: {data}")
+            return True  # preserve if unknown
 
-        # AbuseScore 0–100 (100 = muy malicioso)
         score = data["data"]["abuseConfidenceScore"]
-        print(f"[INFO] IP {ip} → Score {score}")
-
+        print(f"[INFO] {ip} → Score: {score}")
         return score > 0
 
     except Exception as e:
-        print(f"[ERROR] Exception checking {ip}: {e}")
-        return True  # Si falla la consulta, mantenemos la IP por seguridad
+        print(f"[ERROR] Failed on {ip}: {e}")
+        return True  # preserve if error
 
-# Process IPs distributing load across keys
-index = 0
-for key in API_KEYS:
-    print(f"[INFO] Using API key chunk {API_KEYS.index(key)+1}/{len(API_KEYS)}")
+updated_ips = []
+delete_counter = 0
 
-    chunk = original_ips[index:index + max_per_key]
+processed = 0
+position = last_pos
 
-    for ip in chunk:
-        malicious = check_ip(ip, key)
-        if malicious:
-            cleaned_ips.append(ip)
-        time.sleep(1.2)  # evitar rate-limit
+for key_index, key in enumerate(API_KEYS):
+    print(f"[INFO] Using API key {key_index+1}/{len(API_KEYS)}")
 
-    index += max_per_key
+    for _ in range(max_per_key):
+        if processed >= total_daily_allowed:
+            break
 
-    if index >= len(original_ips):
-        break
+        # Wrap around when reaching the end
+        if position >= total_ips:
+            position = 0
+
+        ip = ips[position]
+        is_malicious = check_ip(ip, key)
+
+        if is_malicious:
+            updated_ips.append(ip)
+        else:
+            delete_counter += 1
+            print(f"[INFO] IP removed: {ip}")
+
+        processed += 1
+        position += 1
+
+        time.sleep(1.2)  # rate-limit safety
 
 # Save updated list
 with open(LIST_PATH, "w") as f:
-    f.write("\n".join(cleaned_ips))
+    f.write("\n".join(updated_ips))
 
-print(f"[INFO] Updated malicious IP list saved.")
-print(f"[INFO] Original: {len(original_ips)} → Active malicious: {len(cleaned_ips)}")
+print(f"[INFO] Processing completed.")
+print(f"[INFO] Malicious kept: {len(updated_ips)}")
+print(f"[INFO] Removed (no longer malicious): {delete_counter}")
 
+# Save new pointer
+with open(POINTER_PATH, "w") as f:
+    f.write(str(position))
+
+print(f"[INFO] New position saved: {position}")
