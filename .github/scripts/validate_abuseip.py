@@ -3,10 +3,11 @@ import time
 import requests
 from datetime import datetime
 
-# Paths
-LIST_PATH = "data/malignas.txt"
-BACKUP_FOLDER = "data/backups"
-POINTER_PATH = "data/last_position.txt"
+# === PATHS ADAPTADOS A TU REPO ===
+LIST_PATH = "malignas.txt"
+BACKUP_FOLDER = "backups"
+POINTER_PATH = "last_position.txt"
+REMOVED_LOG = "removed_ips.log"
 
 # Read API keys from GitHub Secrets (comma-separated)
 API_KEYS = os.getenv("API_KEYS", "").split(",")
@@ -17,7 +18,7 @@ if not API_KEYS or API_KEYS == [""]:
 max_per_key = 1000
 total_daily_allowed = len(API_KEYS) * max_per_key
 
-# Ensure folders exist
+# Ensure backups folder exists
 os.makedirs(BACKUP_FOLDER, exist_ok=True)
 
 # Load IP list
@@ -68,7 +69,7 @@ def check_ip(ip, key):
         print(f"[ERROR] Failed on {ip}: {e}")
         return True  # preserve if error
 
-updated_ips = []
+updated_ips = ips.copy()  # maintain original order
 delete_counter = 0
 
 processed = 0
@@ -81,34 +82,42 @@ for key_index, key in enumerate(API_KEYS):
         if processed >= total_daily_allowed:
             break
 
-        # Wrap around when reaching the end
         if position >= total_ips:
-            position = 0
+            position = 0  # wrap around
 
         ip = ips[position]
         is_malicious = check_ip(ip, key)
 
-        if is_malicious:
-            updated_ips.append(ip)
-        else:
+        if not is_malicious:
             delete_counter += 1
             print(f"[INFO] IP removed: {ip}")
+
+            if ip in updated_ips:
+                updated_ips.remove(ip)
+
+            # log removed IP
+            with open(REMOVED_LOG, "a") as log:
+                log.write(f"{timestamp} | {ip}\n")
 
         processed += 1
         position += 1
 
-        time.sleep(1.2)  # rate-limit safety
+        time.sleep(1.2)
 
-# Save updated list
-with open(LIST_PATH, "w") as f:
-    f.write("\n".join(updated_ips))
+# Save updated list preserving exact formatting
+with open(LIST_PATH, "w", newline="\n") as f:
+    for i, ip in enumerate(updated_ips):
+        if i < len(updated_ips) - 1:
+            f.write(ip + "\n")
+        else:
+            f.write(ip)  # last line without extra newline
 
-print(f"[INFO] Processing completed.")
+print(f"[INFO] Completed.")
 print(f"[INFO] Malicious kept: {len(updated_ips)}")
-print(f"[INFO] Removed (no longer malicious): {delete_counter}")
+print(f"[INFO] Removed: {delete_counter}")
 
-# Save new pointer
+# Save pointer for next run
 with open(POINTER_PATH, "w") as f:
     f.write(str(position))
 
-print(f"[INFO] New position saved: {position}")
+print(f"[INFO] New position saved: " + str(position))
