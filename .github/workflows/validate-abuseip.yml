@@ -26,8 +26,7 @@ jobs:
         env:
           API_KEYS: ${{ secrets.ABUSEIP_API_KEYS }}   # Cadena con keys separadas por coma
         run: |
-          python scripts/validate_abuseip.py
-
+          python .github/scripts/validate_abuseip.py
       - name: Commit and push changes
         run: |
           git config --local user.email "bot@github.com"
