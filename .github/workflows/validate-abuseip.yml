@@ -1,5 +1,8 @@
 name: Validate Malicious IP List Daily
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 3 * * *"   # Corre todos los días a las 03:00 UTC
