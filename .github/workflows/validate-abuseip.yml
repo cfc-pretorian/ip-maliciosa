@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add data/
+          git add malignas.txt last_position.txt removed_ips.log backups/
           git commit -m "Daily IP validation update" || echo "No changes to commit"
           git push || echo "No changes to push"
 
