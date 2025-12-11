@@ -2,8 +2,8 @@ name: Remover IPs privadas de la lista
 
 on:
   schedule:
-    # Todos los días a las 05:00 UTC (ajusta la hora si quieres)
-    - cron: '0 5 * * *'
+    # Una vez a la semana: domingos a las 03:00 UTC
+    - cron: '0 3 * * 0'
   workflow_dispatch: {}
 
 jobs:
@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write      # para poder commitear cambios si quieres
-      issues: write        # para crear Issues de aviso
+      contents: write
+      issues: write
 
     steps:
       - name: Checkout repo
@@ -42,7 +42,7 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "actions@github.com"
           git add malignas.txt malignas.txt.private.bak private_ips_found.txt
-          git commit -m "Auto-clean: eliminación de IPs privadas de malignas.txt"
+          git commit -m "Auto-clean semanal: eliminación de IPs privadas"
           git push
 
       - name: Crear Issue con el listado de IPs privadas
