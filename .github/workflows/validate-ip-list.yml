@@ -2,8 +2,8 @@ name: Validar lista de IPs
 
 on:
   schedule:
-    # Todos los días a las 06:00 UTC (ajusta si quieres otra hora)
-    - cron: '0 6 * * *'
+    # Una vez a la semana: domingo a las 04:00 UTC
+    - cron: '0 4 * * 0'
   workflow_dispatch: {}
   push:
     paths:
