@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>12 Dec 2025 9:33 AM - 12 Dec 2025 9:33 AM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>2</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">Cato Networks identified the following security event:</div><div style="padding-top:10px">Security Type: Anti Malware</div><div style="padding-top:10px">Action: <span style='color: #b92c28'>Block</span></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8076,28 +8076,19 @@
             <th>Destination</th>
             <th>App Category</th>
             <th>Custom Category</th>
-            <th>Threat Type</th>
         </tr>
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">12 Dec 2025 9:33 AM</td>
-            <td style="word-wrap: break-word">Caja Los Andes ingciberseguridad (191.112.5.9)</td>
-            <td style="word-wrap: break-word">Caja Los Andes ingciberseguridad 10.41.10.158</td>
-            <td style="word-wrap: break-word"> 131.72.236.78</td>
-            <td style="word-wrap: break-word">[Undefined]</td>
+            <td style="word-wrap: break-word">12 Dec 2025 12:16 PM</td>
+            <td style="word-wrap: break-word">David Pulgar (190.100.216.198)</td>
+            <td style="word-wrap: break-word">david.pulgar@pretorian-ti.com 10.41.10.117</td>
+            <td style="word-wrap: break-word">GitHub 185.199.108.133</td>
+            <td style="word-wrap: break-word">Business Systems, Computers and Technology</td>
             <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
-        </tr>
-        <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">12 Dec 2025 9:33 AM</td>
-            <td style="word-wrap: break-word">Caja Los Andes ingciberseguridad (191.112.5.9)</td>
-            <td style="word-wrap: break-word">Caja Los Andes ingciberseguridad 10.41.10.158</td>
-            <td style="word-wrap: break-word"> 131.72.236.78</td>
-            <td style="word-wrap: break-word">[Undefined]</td>
-            <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-12-12/%7B12:33:24--12:34:25%7D%22&events-filters=%22(event_id-in-17eb940109ba98f*17eb940109ba98e)%22>View events</a></div>
+</div><div style="padding-top:10px">
+    <b><h4>All times are in Chile Summer Time (currently GMT-3)</h4></b>
+</div><div style="padding-top:10px">#of occurrences: 1</div><div style="padding-top:10px">start date: 12 Dec 2025 12:16 PM</div><div style="padding-top:10px">end date: 12 Dec 2025 12:16 PM<br><br></div><div style="padding-top:10px">Review event details:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-12-12/%7B15:16:25--15:17:26%7D%22&events-filters=%22(event_id-in-1801c90097d796c)%22>Events</a>.</div><div style="padding-top:10px">Fine-tune the rule:</div><div style="padding-top:10px">Cato Networks Management Application - <a href=https://pretorian.cc.catonetworks.com/?#/account/2700/>Rule configuration</a>.</div>
