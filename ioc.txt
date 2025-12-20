@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>20 Dec 2025 3:24 PM - 20 Dec 2025 3:24 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>20 Dec 2025 3:24 PM - 20 Dec 2025 3:26 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>34</b></div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><b>Note:</b> Showing only the first 20 events<br><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,6 +8081,177 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:26 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:26 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:26 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:26 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:26 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:25 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">20 Dec 2025 3:24 PM</td>
+            <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
+            <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
+            <td style="word-wrap: break-word"> 172.67.180.252</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
             <td style="word-wrap: break-word">20 Dec 2025 3:24 PM</td>
             <td style="word-wrap: break-word">Joaquin Castillo (191.114.120.66)</td>
             <td style="word-wrap: break-word">Joaquin Castillo 10.41.10.77</td>
@@ -8091,4 +8262,4 @@
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-12-20/%7B18:24:58--18:25:59%7D%22&events-filters=%22(event_id-in-1809fa00bdcea41)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2025-12-20/%7B18:24:58--18:26:39%7D%22&events-filters=%22(event_id-in-180a4000bdd1304*180a3f00bdd1234*180a3e00bdd11ab*180a3c00bdd10e9*180a3b00bdd1015*180a3400bdd0c90*180a2d00bdd07f2*180a2800bdd051d*180a2500bdd0305*180a2300bdd01f5*180a1e00bdcfea3*180a1900bdcfcc4*180a1600bdcfa80*180a0900bdcf2a7*180a0900bdcf2a9*180a0900bdcf297*180a0900bdcf292*180a0900bdcf28e*1809fb00bdceaa6*1809fa00bdcea41)%22>View events</a></div>
