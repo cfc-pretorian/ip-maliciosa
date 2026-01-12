@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>12 Jan 2026 5:56 PM - 12 Jan 2026 5:56 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>12 Jan 2026 8:09 PM - 12 Jan 2026 8:09 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,14 +8081,14 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
-            <td style="word-wrap: break-word">12 Jan 2026 5:56 PM</td>
-            <td style="word-wrap: break-word">Yonel Pinedo (177.53.154.238)</td>
-            <td style="word-wrap: break-word">Yonel Pinedo 10.41.10.249</td>
-            <td style="word-wrap: break-word"> 79.127.252.180</td>
-            <td style="word-wrap: break-word">[Uncategorized]</td>
+            <td style="word-wrap: break-word">12 Jan 2026 8:09 PM</td>
+            <td style="word-wrap: break-word">Franco Ahumada (148.227.75.240)</td>
+            <td style="word-wrap: break-word">Franco Ahumada 10.41.10.79</td>
+            <td style="word-wrap: break-word"> 8.6.112.4</td>
             <td style="word-wrap: break-word"></td>
-            <td style="word-wrap: break-word">Reputation</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Vulnerability Scan</td>
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2026-01-12/%7B20:56:45--20:57:46%7D%22&events-filters=%22(event_id-in-20000d042a29fc3)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2026-01-12/%7B23:09:54--23:10:55%7D%22&events-filters=%22(event_id-in-3cf420196fd5e1)%22>View events</a></div>
