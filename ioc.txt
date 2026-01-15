@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>15 Jan 2026 5:00 AM - 15 Jan 2026 5:00 AM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>15 Jan 2026 5:00 AM - 15 Jan 2026 5:59 AM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>3542</b></div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><b>Note:</b> Showing only the first 21 events<br><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,6 +8081,186 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 200.9.155.154</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 64.235.40.8</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 200.25.57.10</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 23.83.129.73</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 64.235.40.8</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 34.176.145.47</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 23.83.129.73</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 207.38.90.222</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 34.176.145.47</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 38.165.235.81</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 207.38.90.222</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 200.25.38.151</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 38.165.235.81</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 87.121.99.60</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 200.25.38.151</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 107.6.254.106</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 87.121.99.60</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 45.234.95.40</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 107.6.254.106</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">15 Jan 2026 5:59 AM</td>
+            <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
+            <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
+            <td style="word-wrap: break-word"> 200.25.16.70</td>
+            <td style="word-wrap: break-word">[Network Protocol]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Network Scan</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
             <td style="word-wrap: break-word">15 Jan 2026 5:00 AM</td>
             <td style="word-wrap: break-word">juan bruna (181.43.37.60)</td>
             <td style="word-wrap: break-word">juan bruna 10.41.10.182</td>
@@ -8091,4 +8271,4 @@
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2026-01-15/%7B08:00:00--08:01:01%7D%22&events-filters=%22(event_id-in-17ee8000e2d5b15)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2026-01-15/%7B08:00:00--08:59:03%7D%22&events-filters=%22(event_id-in-17ec6a00e3ffc5f*17ec6900e3ffac7*17ec6800e3ff982*17ec6700e3ff83d*17ec6600e3ff6d3*17ec6500e3ff592*17ec6400e3ff469*17ec6300e3ff2e5*17ec6200e3ff1ba*17ec6100e3ff062*17ec6000e3feefc*17ec5f00e3fed86*17ec5e00e3fec22*17ec5d00e3fea95*17ec5c00e3fe950*17ec5b00e3fe813*17ec5a00e3fe6ea*17ec5900e3fe58f*17ec5800e3fe469*17ec5700e3fe2cc*17ee8000e2d5b15)%22>View events</a></div>
