@@ -8066,7 +8066,7 @@
     </table>
 </div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time="utc.2024-10-12/{00:21:56--00:22:56}"&events-filters="(internalId-in-18012400dce7037)">View events</a></div>
 <div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>BLOCK</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>11 Oct 2024 9:21 PM - 11 Oct 2024 10:22 PM (GMT-4)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>25</b></di
-<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>16 Feb 2026 2:10 PM - 16 Feb 2026 2:10 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>1</b></div><div style="padding-top:10px"><br></div><div>
+<div style="padding-top:10px">We identified the following security events:</div><div style="padding-top:10px"><br></div><div style="padding-top:10px">Event Type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Rule: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IPS</b></div><div style="padding-top:10px">Action: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style='color: #b92c28'><b>Block</b></span></div><div style="padding-top:10px">Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>16 Feb 2026 2:10 PM - 16 Feb 2026 2:15 PM (GMT-3)</b></div><div style="padding-top:10px">Occurrences: &nbsp;&nbsp;&nbsp;<b>16</b></div><div style="padding-top:10px"><br></div><div>
     <table style="table-layout:fixed; width:100%; padding-top:10px">
         <thead>
         <tr style="background-color:#e7e5e6">
@@ -8081,6 +8081,141 @@
         </thead>
         <tbody>
         <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:15 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:15 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:15 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:15 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:11 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:11 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:11 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:11 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:11 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:11 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:11 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:11 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:10 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:10 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
+            <td style="word-wrap: break-word">16 Feb 2026 2:10 PM</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
+            <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
+            <td style="word-wrap: break-word"> 172.67.178.104</td>
+            <td style="word-wrap: break-word">[Phishing]</td>
+            <td style="word-wrap: break-word"></td>
+            <td style="word-wrap: break-word">Reputation</td>
+        </tr>
+        <tr style="background-color:#e7e5e6">
             <td style="word-wrap: break-word">16 Feb 2026 2:10 PM</td>
             <td style="word-wrap: break-word">Alvaro Saavedra (190.164.96.152)</td>
             <td style="word-wrap: break-word">Alvaro Saavedra 10.41.10.178</td>
@@ -8091,4 +8226,4 @@
         </tr>
         </tbody>
     </table>
-</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2026-02-16/%7B17:10:11--17:11:12%7D%22&events-filters=%22(event_id-in-17ef73003a2aefc)%22>View events</a></div>
+</div><div style="padding-top:10px"><br></div><div style="padding-top:10px"><a href=https://pretorian.cc.catonetworks.com/?#/account/2700/events?time=%22utc.2026-02-16/%7B17:10:11--17:15:01%7D%22&events-filters=%22(event_id-in-17e094003a7b6ef*17e094003a7b6e4*17e094003a7b6db*17e094003a7b6c0*17efd5003a4533a*17efd5003a45337*17efd5003a45327*17efd5003a45326*17efa6003a38678*17efa6003a3866f*17efa6003a3865f*17efa6003a3862c*17ef73003a2af4a*17ef73003a2af38*17ef73003a2af1b*17ef73003a2aefc)%22>View events</a></div>
